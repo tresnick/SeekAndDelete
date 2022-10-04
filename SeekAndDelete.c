@@ -134,7 +134,6 @@ void createLogfileName(char *ofn)
 void warningMessage()
 {
     printf("\nSeek And Delete, v1.0.0\n");
-    printf("By Tyler Resnick\n\n");
     
     printf("WARNING: THIS TOOL WILL DELETE FILES - USE AT YOUR OWN RISK!!\n");
     printf("NOTICE: Files deleted with this tool are NOT overwritten. It is up to the user to ensure overwrite is performed.\n");
