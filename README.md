@@ -1,6 +1,6 @@
 # SeekAndDelete
 
-Long story short, couldn't find a targeted deletion tool that I liked so I made my own.
+Long story short, I couldn't find a targeted deletion tool that I liked so I made my own.
 
 This tool is being developed with digital forensics practitioners in mind. The goal here is to make a tool for practitioners with data remediation needs.
 
