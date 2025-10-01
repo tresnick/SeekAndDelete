@@ -1,9 +1,3 @@
 # SeekAndDelete
 
-Long story short, I couldn't find a targeted deletion tool that I liked so I made my own.
-
-This tool is being developed with digital forensics practitioners in mind. The goal here is to make a tool for practitioners with data remediation needs.
-
-Ultimately, I'd like to add in overwrite capabilities (currently does not overwrite files it deletes) and the ability to overwrite unallocated space.
-
-I'll add input instructions, etc. here later on.
+Takes a list of file paths as input and delets files as it finds them. Useful for targeted data remedation if you do that type of thing. Doesn't currently support file/unallocated space overwrite, but I might add that functionality later.
